@@ -1,0 +1,9 @@
+[submodule "Infracstructure"]
+	path = Infracstructure
+	url = https://github.com/nnaaaa/Infracstructure.git
+[submodule "DrawFigureServer"]
+	path = DrawFigureServer
+	url = https://github.com/nnaaaa/DrawFigureServer.git
+[submodule "DrawFigureClient"]
+	path = DrawFigureClient
+	url = https://github.com/nnaaaa/DrawFigureClient.git
